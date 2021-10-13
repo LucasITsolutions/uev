@@ -1,2 +1,2 @@
 # uev
-Trying to get UE-V working!!!
+User Experience Virtualization templates
